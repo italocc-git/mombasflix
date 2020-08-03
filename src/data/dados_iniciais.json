@@ -180,6 +180,36 @@
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
+    },
+    {
+      "titulo": "Musicas para relaxar e estudar",
+      "cor" : "purple",
+      "link_extra": {
+        "text" : "Live beats to relax",
+        "url" : "https://www.youtube.com/watch?v=5qap5aO4i9A"
+      },
+      "videos" : [
+        {
+          "titulo" : "Ambient Study Music To Concentrate",
+          "url" : "https://www.youtube.com/watch?v=sjkrrmBnpGE"
+        },
+        {
+          "titulo" : "Classical Piano Music by Mozart",
+          "url" : "https://www.youtube.com/watch?v=VB6SIKl8Md0"
+        },
+        {
+          "titulo" : "Mozart: Complete Piano Sonatas",
+          "url" : "https://www.youtube.com/watch?v=Wcgd1oCbW4g"
+        },
+        {
+          "titulo" : "Chopin & Liszt - Piano Solo",
+          "url" : "https://www.youtube.com/watch?v=52Io_FokIy4&t=3476s"
+        },
+        {
+          "titulo" : "Classical Music for Reading - Calm Piano",
+          "url" : "https://www.youtube.com/watch?v=tbkMSoKfIjU"
+        }
+      ]
     }
   ]
 }
